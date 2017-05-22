@@ -9,7 +9,6 @@ using TicketDataService.Models;
 
 namespace TicketDataService.Controllers
 {
-	[RoutePrefix("api/Orders")]
 	public class OrdersController :ODataController
 	{
 		[EnableQuery]

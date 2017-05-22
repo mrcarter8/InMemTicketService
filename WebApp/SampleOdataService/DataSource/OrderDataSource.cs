@@ -28,10 +28,10 @@ namespace TicketDataService.DataSource
 		{
 			get
 			{
-				var exeFile = Assembly.GetExecutingAssembly().Location;
-				var dir = Path.GetDirectoryName(exeFile);
+				//var exeFile = Assembly.GetExecutingAssembly().Location;
+				//var dir = Path.GetDirectoryName(exeFile);
 
-				var json = File.ReadAllText(Path.Combine(dir, "orders.txt"));
+				var json = File.ReadAllText(System.Web.Hosting.HostingEnvironment.MapPath(HttpContext.Current.Request.ApplicationPath) + "\\orders.txt");
 
 				return JsonConvert.DeserializeObject<Order[]>(json).AsQueryable();
 

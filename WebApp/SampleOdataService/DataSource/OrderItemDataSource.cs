@@ -31,7 +31,7 @@ namespace TicketDataService.DataSource
 				var exeFile = Assembly.GetExecutingAssembly().Location;
 				var dir = Path.GetDirectoryName(exeFile);
 
-				var json = File.ReadAllText(Path.Combine(dir, "orderitems.txt"));
+				var json = File.ReadAllText(System.Web.Hosting.HostingEnvironment.MapPath(HttpContext.Current.Request.ApplicationPath) + "\\orderitems.txt");
 
 				return JsonConvert.DeserializeObject<OrderItem[]>(json).AsQueryable();
 
