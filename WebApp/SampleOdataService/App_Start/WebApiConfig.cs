@@ -22,7 +22,7 @@ namespace SampleOdataService
 				 "odata",
 				builder.GetEdmModel());
 			config.EnsureInitialized();
-
+			config.Select().Expand().Filter().OrderBy().MaxTop(600).Count();
 			//// Web API configuration and services
 			//// Configure Web API to use only bearer token authentication.
 			//config.SuppressDefaultHostAuthentication();
