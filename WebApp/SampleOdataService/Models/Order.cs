@@ -4,6 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
+using SampleOdataService.Models;
 using TicketDataService.DataSource;
 
 namespace TicketDataService.Models
@@ -22,7 +23,7 @@ namespace TicketDataService.Models
 
 		public Guid crmaccountid { get; set; }
 
-		public int type { get; set; }
+		public OrderType type { get; set; }
 
 		public string emailaddress { get; set; }
 
