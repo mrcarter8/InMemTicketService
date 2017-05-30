@@ -11,7 +11,7 @@ namespace TicketDataService.Controllers
 {
 	public class OrdersController :ODataController
 	{
-		[EnableQuery(MaxTop = 100)]
+		[EnableQuery(MaxTop = 10000)]
 		public IQueryable<Order> Get()
 		{
 			return OrderDataSource.Instance.Orders.AsQueryable();

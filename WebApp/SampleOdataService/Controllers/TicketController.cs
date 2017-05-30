@@ -13,7 +13,7 @@ namespace TicketDataService.Controllers
 {
     public class TicketsController : ODataController
     {
-        [EnableQuery(MaxTop = 100)]
+        [EnableQuery(MaxTop = 10000)]
 		public IQueryable<Ticket> Get()
         {
             return TicketDataSource.Instance.Tickets.AsQueryable();

@@ -11,7 +11,7 @@ namespace TicketDataService.Controllers
 {
 	public class ContactsController : ODataController
 	{
-		[EnableQuery(MaxTop = 100)]
+		[EnableQuery(MaxTop = 10000)]
 		public IQueryable<Contact> Get()
 		{
 			return ContactDataSource.Instance.Contacts.AsQueryable();
