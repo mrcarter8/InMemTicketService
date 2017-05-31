@@ -23,7 +23,7 @@ namespace TicketDataService.Models
 
 		public Guid crmaccountid { get; set; }
 
-		public OrderType type { get; set; }
+		public OrderType ordertype { get; set; }
 
 		public string emailaddress { get; set; }
 

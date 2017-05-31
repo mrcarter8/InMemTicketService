@@ -6,7 +6,7 @@
 		"amount":4000.12,
 		"discount":"10",
 		"fulfilled":1,
-		"type":2,
+		"ordertype":2,
 		"emailaddress": "test@gmail.com",
 	},
 	{
@@ -16,7 +16,7 @@
 		"amount":4000.12,
 		"discount":"10",
 		"fulfilled":1,
-		"type":1,
+		"ordertype":1,
 		"emailaddress":"test@gmail.com",
 	}
 ]
