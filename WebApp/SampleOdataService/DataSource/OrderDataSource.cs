@@ -28,13 +28,12 @@ namespace TicketDataService.DataSource
 		{
 			get
 			{
-				//var exeFile = Assembly.GetExecutingAssembly().Location;
-				//var dir = Path.GetDirectoryName(exeFile);
-
 				var json = File.ReadAllText(System.Web.Hosting.HostingEnvironment.MapPath(HttpContext.Current.Request.ApplicationPath) + "\\orders.txt");
 
-				return JsonConvert.DeserializeObject<Order[]>(json).AsQueryable();
-
+				var orders = JsonConvert.DeserializeObject<Order[]>(json).AsQueryable();
+				orders.First().OrderItems = OrderItemDataSource.Instance.OrderItems.ToArray();
+				orders.Last().OrderItems = OrderItemDataSource.Instance.OrderItems.ToArray();
+				return orders;
 			}
 		}
 	}
