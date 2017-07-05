@@ -17,8 +17,5 @@ namespace TicketDataService.Models
 
 		public double annualrevenue { get; set; }
 		public bool donotphone { get; set; }
-		public Guid crmaccountid { get; set; }
-
-		public Guid externalcontactid { get; set; }
 	}
 }
