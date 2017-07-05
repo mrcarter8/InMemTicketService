@@ -13,7 +13,8 @@ namespace SampleOdataService
 
 			ODataModelBuilder builder = new ODataConventionModelBuilder();
 			builder.EntitySet<TicketDataService.Models.Ticket>("Tickets");
-			builder.EntitySet<Account>("Accounts");
+            builder.EntitySet<TicketDataService.Models.Ticket>("TimeOutTickets");
+            builder.EntitySet<Account>("Accounts");
 			builder.EntitySet<Contact>("Contacts");
 			builder.EntitySet<Order>("Orders");
 			builder.EntitySet<OrderItem>("OrderItems");

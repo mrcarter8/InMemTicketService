@@ -287,6 +287,7 @@
     <Compile Include="Controllers\OrderController.cs" />
     <Compile Include="Controllers\OrderItemController.cs" />
     <Compile Include="Controllers\TicketController.cs" />
+    <Compile Include="Controllers\TimeOutTicketController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="DataSource\AccountDataSource.cs" />
     <Compile Include="DataSource\ContactDataSource.cs" />
@@ -385,6 +386,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\TimeOutTicket\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
