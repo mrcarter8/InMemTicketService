@@ -25,6 +25,8 @@ namespace TicketDataService.Models
 
 		public OrderType ordertype { get; set; }
 
+		public DateTimeOffset datetimeoffset { get; set;}
+
 		public string emailaddress { get; set; }
 
 		[ForeignKey("OrderItems")]
