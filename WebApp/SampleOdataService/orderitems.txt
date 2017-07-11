@@ -16,7 +16,7 @@
 		"datetimeoffset":"5/9/2017 1:36:15 PM -07:00",
 	},
 	{
-		"OrderItemID":"a721da08-2515-42e6-8356-d61d16cbceb9",
+		"OrderItemID":"99F57D75-7DB5-4E5D-A140-B669ACFC9A03",
 		"name":"Permanent Marker, 24PK",
 		"amount":15.99,
 		"quantity":2,
@@ -56,7 +56,7 @@
 		"datetimeoffset":"6/15/2017 1:36:15 PM -07:00",
 	},
 	{
-		"OrderItemID":"a721da08-2515-42e6-8356-d61d16cbceb9",
+		"OrderItemID":"1687E3FA-334C-4AB6-9FE4-80DAE1880444",
 		"name":"Large Academic Monthly Planner,14 Months, Black",
 		"amount":13.88,
 		"quantity":1,
