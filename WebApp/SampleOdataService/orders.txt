@@ -19,6 +19,7 @@
 		"fulfilled":1,
 		"ordertype":1,
 		"emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 		"datetimeoffset":"5/9/2017 1:36:15 PM -07:00",
 	},
   {
@@ -30,6 +31,7 @@
 		"fulfilled":1,
 		"ordertype":3,
 		"emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 		"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 	},
   {
@@ -41,6 +43,7 @@
 		"fulfilled":1,
 		"ordertype":4,
 		"emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 		"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 	},
 {
@@ -52,6 +55,8 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"ac0f066f-4e8b-4c6e-8554-8555f8fda2fb",
@@ -62,6 +67,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"da4af1dd-ee5e-4f0c-aa8c-0c27ea3b4a3f",
@@ -72,6 +78,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"2c619415-c27f-4c77-aa08-c71bfb4ab97b",
@@ -82,6 +89,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"2d510e66-6e8d-4739-9f80-943fe1bc12d8",
@@ -92,6 +100,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"6d6d2ef3-86ed-46bb-a3a3-3182f11363d2",
@@ -102,6 +111,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"106bad9e-327c-4d16-86e9-529110a87c6e",
@@ -112,6 +122,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"dfb8de51-2c23-4b43-a5ee-ad5daa0e2a00",
@@ -122,6 +133,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"02c62cb1-5c18-42a5-9d8e-423160292b6d",
@@ -132,6 +144,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"14e5e2d5-08b7-488a-8f08-d6ec5995c828",
@@ -142,6 +155,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"31f0f4b2-5b74-4edf-ba3c-d26ee24993ab",
@@ -152,6 +166,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"fa09145b-fc02-45a3-82b0-420d9f6fb705",
@@ -162,6 +177,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"de6b8e46-753d-4bfc-9071-42985616f8be",
@@ -172,6 +188,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"81c953fe-8a65-4123-a245-6f6216d82595",
@@ -182,6 +199,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"abd1950e-3a95-484c-bd49-669d706ebe1f",
@@ -192,6 +210,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"9403b911-f703-4bfc-91b5-92b23bafcd66",
@@ -202,6 +221,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"87501434-8401-4c5e-8e83-d4ab3bb1d819",
@@ -212,6 +232,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"1972a62d-abe4-4c9c-99d7-dbbfbbe82764",
@@ -222,6 +243,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"84d1047b-3f2d-40cf-8abd-ed1d2b041b24",
@@ -232,6 +254,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"85cfff22-38a6-4865-97fe-9f065333835e",
@@ -242,6 +265,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"3354203e-65a8-4b78-b467-530e36940ca7",
@@ -252,6 +276,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"7dbb8fae-2200-4b6e-9cc2-99e5a65ca638",
@@ -262,6 +287,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"5d2a649b-037a-4012-a187-fda444b03c31",
@@ -272,6 +298,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"35f048fa-04a0-4980-9f13-10cff4036fe1",
@@ -282,6 +309,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"7d675cda-9db6-4be3-bcec-96348f31392b",
@@ -292,6 +320,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"455770f6-c91a-4155-9c89-f17c960b3320",
@@ -302,6 +331,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"7283f148-1c38-44ef-af73-6c0e946c84d3",
@@ -312,6 +342,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"ed048866-ec9e-430b-a0c1-7f51018f2e6a",
@@ -322,6 +353,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"e3487675-5e1d-40a0-bda3-082a57a66da0",
@@ -332,6 +364,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"c8b6ec36-531b-46f6-aef0-801f64dffc9d",
@@ -342,6 +375,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"53254c41-4284-4511-a48b-3cd812d7faee",
@@ -352,6 +386,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"c49a0fa0-b1ce-4459-b372-155bd46ef94a",
@@ -362,6 +397,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"20b9d098-78ba-4743-be64-8dad21564192",
@@ -372,6 +408,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"d2df3f15-2837-47c3-8380-afd894bcc898",
@@ -382,6 +419,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"a66ef9e2-0415-47cb-ae37-169b9333a57c",
@@ -392,6 +430,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"4c4f459a-a0ee-4e48-a33e-31ab3fc17cca",
@@ -402,6 +441,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"8cbf67ba-a057-4f91-b631-8d43c4dab212",
@@ -412,6 +452,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"61540c1b-17c7-443e-8dcd-5a9ae0e92b3c",
@@ -422,6 +463,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"20b80b89-c19e-4825-87be-a99794b086b4",
@@ -432,6 +474,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"e380bfa8-dbf8-4a4b-a2c7-f28ecbb8635e",
@@ -442,6 +485,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"15aa3456-a1e2-4b2d-a083-78cd98504755",
@@ -452,6 +496,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"f8c48561-4340-4ffc-844c-7573c2432611",
@@ -462,6 +507,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"e41602e2-accb-4d52-b93d-8788977ff050",
@@ -472,6 +518,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"54b669d8-5293-48bd-bfa5-eff496d227d6",
@@ -482,6 +529,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"df996b37-22d1-43c5-b70b-bb51f65d4359",
@@ -492,6 +540,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"57e4e480-0f34-4faa-92c1-c7ee95546d79",
@@ -502,6 +551,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"33fa773d-b56d-4cc0-9735-b592e7017b65",
@@ -512,6 +562,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"c93e5283-9a65-43e6-bd71-39060ee775de",
@@ -522,6 +573,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"966c8fec-a80a-490d-b6cb-e178fce73fa5",
@@ -532,6 +584,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"4a44bb00-81de-4e3a-b404-8d5fcd48bb8a",
@@ -542,6 +595,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"e5fd89f0-02f9-470e-828e-772778ce4726",
@@ -552,6 +606,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"79b852a3-27df-417c-9412-f3bea10b1e06",
@@ -562,6 +617,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"e133ad76-4976-4ed4-b1b2-883b3e27abbb",
@@ -572,6 +628,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"9d243a12-5bd9-41f1-8aac-02a0a0246bf1",
@@ -582,6 +639,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"a446678c-386c-46fc-a3e3-0208e16e6a42",
@@ -592,6 +650,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"4ea8039f-cbed-418d-84ea-16422c2a7b41",
@@ -602,6 +661,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"70e08727-6bae-4f3d-951a-0d9718007a74",
@@ -612,6 +672,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"45027296-9462-4f3e-8ede-23fb1088d615",
@@ -622,6 +683,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"50a8ddc1-6bd7-49d8-93be-23829a88a75a",
@@ -632,6 +694,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"cf72dac2-56fb-4b63-ab5a-cc247932ba5b",
@@ -642,6 +705,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"82372cf8-43ae-43b5-97b7-9a5e4a743984",
@@ -652,6 +716,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"57cc0c9a-4d7a-40b3-85cb-d2a27824cb37",
@@ -662,6 +727,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"363c5d4c-afb6-4ab5-9744-5ec8bb4e2c66",
@@ -672,6 +738,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"48437d4f-39f3-4b71-9393-fc7fb9efef31",
@@ -682,6 +749,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"be558297-d333-4467-a0c4-0b5d1771cfbf",
@@ -692,6 +760,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"b32df54e-db61-4503-b205-4d70be5fbe52",
@@ -702,6 +771,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"aa5cdf99-019c-4c37-87ce-2c096734e0ef",
@@ -712,6 +782,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"edb03dcf-8e02-479e-a56d-6645af31c2b5",
@@ -722,6 +793,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"cafe1b46-d4d1-4046-9b8e-fdbbaf633acd",
@@ -732,6 +804,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"79fe353d-ea77-4e42-908d-e53b3210dff1",
@@ -742,6 +815,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"d4dfb9ca-c5b9-45f5-87f6-74a9f6e43c6c",
@@ -752,6 +826,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"7e12d173-7de5-4de6-bcea-469de3611bcf",
@@ -762,6 +837,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"921706ff-7381-42df-8aa6-8505108943d6",
@@ -772,6 +848,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"0ffcaff6-390b-4348-a27a-81595130c28a",
@@ -782,6 +859,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"6592f8c8-b8b4-4985-9ee0-e77023726921",
@@ -792,6 +870,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"742410ef-f392-4662-b263-35579eef2511",
@@ -802,6 +881,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"d25d345c-6273-4e0b-a300-6de6a3aa4dcc",
@@ -812,6 +892,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"6c7ce047-024e-4d8d-a856-9ce000542dea",
@@ -822,6 +903,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"a2a1991f-1a27-4fad-b68e-f7d55681b103",
@@ -832,6 +914,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"c8be9f2a-9cd0-496a-868d-88d66f48af91",
@@ -842,6 +925,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"2b7b4438-3c69-47f8-ba01-c80149c75577",
@@ -852,6 +936,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"71c2cd2d-8ed3-4fd8-96b6-5219d057ef5b",
@@ -862,6 +947,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"bab9c554-3474-4eb3-a6b2-58f9eac2af2c",
@@ -872,6 +958,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"d40a35de-771c-4fda-b3a5-03806696b9b0",
@@ -882,6 +969,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"caa1da64-ba79-447c-ba91-a6c33f8129f2",
@@ -892,6 +980,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"7796d707-2ee2-4b22-8175-de5609c4ffc4",
@@ -902,6 +991,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"71e9a6a2-bcec-49d3-9ec5-7754171d41a9",
@@ -912,6 +1002,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"24d1e6d7-c558-4b12-b73e-117ae6a698ee",
@@ -922,6 +1013,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"48ef1c39-6585-4558-8d9e-23725e4c4190",
@@ -932,6 +1024,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"e784cf63-c76f-4ac9-99dc-fe8fcc679b05",
@@ -942,6 +1035,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"88b9a145-8d1f-4dce-b0e8-e2df6463d586",
@@ -952,6 +1046,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"60a89645-27db-4bd4-bf61-5331a7c63779",
@@ -962,6 +1057,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"87d6ec0a-2394-4af5-a196-018ebb997aef",
@@ -972,6 +1068,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"35abf50c-5993-43cb-bdfd-5f78a90594e3",
@@ -982,6 +1079,7 @@
 "fulfilled":1,
 "ordertype":1,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"35436e4e-9dbf-4e66-af03-66b9b52f6335",
@@ -992,6 +1090,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"0dea08f2-b843-4c0c-9a2f-314a9fdc1ef0",
@@ -1002,6 +1101,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"9ca3040a-4b91-450a-a7e9-a3724d22b70d",
@@ -1012,6 +1112,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"d39c49b3-5dbf-47a3-bede-b5a917fdcf06",
@@ -1022,6 +1123,7 @@
 "fulfilled":1,
 "ordertype":3,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"7942a7b7-091b-4ae9-80d5-1c0169195db5",
@@ -1032,6 +1134,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 {
 "OrderID":"9123fc8b-b64f-4712-8b8d-1809ec1d39eb",
@@ -1042,6 +1145,7 @@
 "fulfilled":1,
 "ordertype":2,
 "emailaddress":"test@gmail.com",
+"datetimeoffset":"6/20/2017 12:18:18 PM -07:00",
 },
 
 ]
