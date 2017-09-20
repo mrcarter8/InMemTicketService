@@ -14,12 +14,16 @@ namespace TicketDataService.Models
 		public Guid OrderItemID { get; set; }
 
 		public string name { get; set; }
-		public int quantity { get; set; }
+		public int? quantity { get; set; }
 
-		public double amount { get; set; }
+		public double? amount { get; set; }
+
+		public bool? delivered { get; set; }
+
+		public OrderType? ordertype { get; set; }
 
 		public Guid orderid { get; set; }
 
-		public DateTimeOffset datetimeoffset { get; set;}
+		public DateTimeOffset? datetimeoffset { get; set;}
 	}
 }
