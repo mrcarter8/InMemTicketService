@@ -3,52 +3,14 @@
 		"AccountID":"a721da08-2515-42e6-8356-d61d16cbceb8",
 		"name":"Disney",
 		"annualrevenue":4000.12,
-		"age":10,
-		"donotphone":1,
-		"externalcontactid":"a721da08-2515-42e6-8356-d61d16cbceb8",
+		"age":"10",
+		"donotphone":1
 	},
 	{
 		"AccountID":"3c8e02be-c9d1-41ef-814a-457954835048",
 		"name":"Sony",
 		"annualrevenue":40.20,
 		"age": 10,
-		"donotphone":1,
-		"externalcontactid":"a721da08-2515-42e6-8356-d61d16cbceb8"
-	},
-	{
-		"AccountID":"3c8e02be-c9d1-41ef-814a-457954835049",
-		"name":"Warner Brothers",
-		"crmaccountid":"78BA26CA-3999-4066-B6F5-8C70CD276B33",
-		"annualrevenue":100.20,
-		"age": 9,
-		"donotphone":1,
-		"externalcontactid":"a721da08-2515-42e6-8356-d61d16cbceb8"
-	},
-	{
-		"AccountID":"3c8e02be-c9d1-41ef-814a-457954835050",
-		"name":"Cedar Grove Productions",
-		"crmaccountid":"78BA26CA-3999-4066-B6F5-8C70CD286A85",
-		"annualrevenue":80.29,
-		"age": 10,
-		"donotphone":1,
-		"externalcontactid":"a721da08-2515-42e6-8356-d61d16cbceb8"
-	},
-	{
-		"AccountID":"3c8e02be-c9d1-41ef-814a-457954835123",
-		"name":"Paramount Pictures",
-		"crmaccountid":"78BA26CA-3999-4066-B6F5-8C70CD286A85",
-		"annualrevenue":80.29,
-		"age": 10,
-		"donotphone":1,
-		"externalcontactid":"a721da08-2515-42e6-8356-d61d16cbceb8"
-	},
-	{
-		"AccountID":"3c8e02be-c9d1-41ef-814a-457954835124",
-		"name":"20th Century Fox",
-		"crmaccountid":"78BA26CA-3999-4066-B6F5-8C70CD286A85",
-		"annualrevenue":80.29,
-		"age": 10,
-		"donotphone":1,
-		"externalcontactid":"a721da08-2515-42e6-8356-d61d16cbceb8"
+		"donotphone":1
 	}
 ]
